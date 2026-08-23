@@ -92,6 +92,7 @@ This provides an additional perspective on product sales patterns.
 The dashboard visualizes sales performance according to the **outlet establishment year**, helping identify changes in sales across different periods.
 
 Key Business Insights
+
 Based on the dashboard analysis:
 * The business generates approximately $1.20M in total sales.
 * Fruits and Vegetables and Snack Foods are among the strongest-performing item categories.
@@ -101,16 +102,21 @@ Based on the dashboard analysis:
 * Outlet establishment year shows variation in sales performance, indicating that outlet age can be an important factor in analysing sales.
 
 Project Files
+
 Power BI Dashboard
+
 `Blinkit_Sales_Dashboard.pbix`
 The Power BI file contains the interactive dashboard, visualizations, data model and analysis.
 Dataset
+
 The dataset used for the analysis is available in the `dataset` folder.
 
 Dashboard Screenshot
+
 A preview of the dashboard is available in the `screenshots` folder.
 
 Skills Demonstrated
+
 This project demonstrates practical skills in:
 * Data Cleaning
 * Data Transformation
