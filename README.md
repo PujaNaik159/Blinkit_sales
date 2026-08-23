@@ -55,11 +55,13 @@ Sales are analysed across different product categories, including:
 The analysis helps identify the product categories contributing most to overall sales.
 
 3. Outlet Analysis
+   
 The dashboard compares different outlet types, including:
 * Grocery Store
 * Supermarket Type 1
 * Supermarket Type 2
 * Supermarket Type 3
+  
 Outlet performance is evaluated using:
 * Total Sales
 * Number of Items
@@ -89,7 +91,7 @@ Sales are compared between:
 This provides an additional perspective on product sales patterns.
 
 7. Outlet Establishment Trend
-The dashboard visualizes sales performance according to the **outlet establishment year**, helping identify changes in sales across different periods.
+The dashboard visualizes sales performance according to the outlet establishment year, helping identify changes in sales across different periods.
 
 Key Business Insights
 
