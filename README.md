@@ -1,5 +1,7 @@
 Blinkit Sales Analysis Dashboard
+
 Project Overview
+
 This project presents an interactive Power BI dashboard for Blinkit sales analysis. The dashboard analyses sales performance across different item types, outlet types, outlet sizes, outlet locations, fat content, and outlet establishment years. The objective is to transform raw sales data into meaningful business insights that can help understand product and outlet performance.
 
 Project Objectives
@@ -27,16 +29,21 @@ Key KPIs
 The dashboard provides the following key performance indicators:
 
  💰 Total Sales     ---- $1.20M
+ 
  📊 Average Sales -----141 
+ 
  📦 Number of Items -----9K 
+ 
  ⭐ Average Rating ------3.9 
 
 
 Dashboard Analysis
- 1. Sales Performance
+
+1. Sales Performance
 The dashboard provides an overview of total and average sales and allows sales performance to be analysed across different business dimensions.
 
  2. Item Type Analysis
+
 Sales are analysed across different product categories, including:
 * Fruits and Vegetables
 * Snack Foods
